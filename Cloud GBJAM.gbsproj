@@ -501,8 +501,8 @@
                                             "command": "EVENT_SWITCH_SCENE",
                                             "args": {
                                                 "sceneId": "896aee79-9b53-4ac1-b41f-b1ddf96da7ff",
-                                                "x": 2,
-                                                "y": 1,
+                                                "x": 1,
+                                                "y": 8,
                                                 "direction": "right",
                                                 "fadeSpeed": "4"
                                             }
@@ -24116,7 +24116,7 @@
                     "symbol": "actor_0"
                 },
                 {
-                    "name": "",
+                    "name": "OneWayEnemy",
                     "frame": 0,
                     "animate": false,
                     "spriteSheetId": "ec0f660e-c420-43ee-9d1e-6d8e9f320213",
@@ -24126,9 +24126,17 @@
                     "paletteId": "",
                     "isPinned": false,
                     "persistent": false,
-                    "collisionGroup": "",
+                    "collisionGroup": "1",
                     "symbol": "actor_1",
-                    "script": [],
+                    "script": [
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "customEventId": "44fff45e-a915-4eb9-915b-647ee134d64e"
+                            },
+                            "id": "8b2670bd-deee-40ec-8ffa-74b1f1d49e1d"
+                        }
+                    ],
                     "startScript": [],
                     "updateScript": [
                         {
@@ -24145,6 +24153,41 @@
                     "id": "96df4be6-e808-41ce-92b5-95d053ff57d4",
                     "x": 78,
                     "y": 4
+                },
+                {
+                    "name": "",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": true,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_18",
+                    "script": [],
+                    "startScript": [
+                        {
+                            "command": "EVENT_ACTOR_SET_DIRECTION",
+                            "args": {
+                                "actorId": "$self$",
+                                "direction": {
+                                    "type": "direction",
+                                    "value": "up"
+                                }
+                            },
+                            "id": "2ce4f583-aa4c-4136-870d-c8de56268758"
+                        }
+                    ],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "b37023df-2868-4534-afcf-91a5b36799c0",
+                    "x": 1,
+                    "y": 1
                 }
             ],
             "triggers": [
@@ -53192,8 +53235,8 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 525,
-        "worldScrollY": 0,
+        "worldScrollX": 349,
+        "worldScrollY": 44,
         "zoom": 150,
         "customColorsEnabled": true,
         "sgbEnabled": false,
