@@ -443,7 +443,7 @@
                     "id": "82ba937b-2e7f-4044-a567-50f9c91be84d",
                     "command": "EVENT_MUSIC_PLAY",
                     "args": {
-                        "musicId": "4f144f63-6005-4e99-b570-92a526201bd3",
+                        "musicId": "b63a155a-7951-4272-be92-8cfef5ded3b2",
                         "loop": false
                     }
                 },
@@ -77274,6 +77274,14 @@
             "type": "uge"
         },
         {
+            "id": "b63a155a-7951-4272-be92-8cfef5ded3b2",
+            "name": "StartMenu",
+            "symbol": "song_startmenu",
+            "filename": "StartMenu.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "9e63fcea-bb03-4921-81df-6f223d2044ad",
             "name": "Tronimal_DrumsExample",
             "symbol": "song_drum_example",
@@ -77541,8 +77549,8 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 1473,
-        "worldScrollY": 569,
+        "worldScrollX": 827,
+        "worldScrollY": 0,
         "zoom": 225,
         "customColorsEnabled": true,
         "sgbEnabled": false,
