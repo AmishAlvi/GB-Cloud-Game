@@ -20158,14 +20158,14 @@
                 0
             ],
             "id": "896aee79-9b53-4ac1-b41f-b1ddf96da7ff",
-            "x": 740.330178761238,
-            "y": 113.43030303030302,
+            "x": 831.5301787612381,
+            "y": 114.76363636363637,
             "actors": [
                 {
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -20746,7 +20746,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -20916,7 +20916,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -21259,7 +21259,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -24150,7 +24150,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -24325,7 +24325,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -24594,7 +24594,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -24884,7 +24884,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -27620,7 +27620,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -27689,7 +27689,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -27858,7 +27858,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -28314,7 +28314,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -28581,7 +28581,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "eb9b9b5f-e1c5-4a04-914d-665a9bbfb11c",
+                    "spriteSheetId": "f04b1d0a-f2d9-45d0-8ad3-1d0027fb4736",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -40069,7 +40069,8 @@
             "height": 18,
             "imageWidth": 1008,
             "imageHeight": 144,
-            "filename": "BG_Level3.png"
+            "filename": "BG_Level3.png",
+            "tileColors": []
         },
         {
             "id": "006a2150-3b0f-4d30-abf8-47af0605bb9b",
@@ -57041,7 +57042,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "Sprite_Raindrop.png",
-            "checksum": "0364864002b1a213431752d2e00224a246d73657",
+            "checksum": "328e0faabf651f5d264d979dd00d78f6ac3b1e52",
             "width": 32,
             "height": 16,
             "states": [
@@ -57187,6 +57188,107 @@
             "numTiles": 4,
             "canvasWidth": 16,
             "canvasHeight": 16,
+            "boundsX": 0,
+            "boundsY": 0,
+            "boundsWidth": 16,
+            "boundsHeight": 16,
+            "animSpeed": 15
+        },
+        {
+            "id": "066190d8-ebda-4809-ba9e-e93d630d9cd2",
+            "name": "UI_Icons",
+            "symbol": "sprite_ui_icons",
+            "numFrames": 9,
+            "type": "animated",
+            "filename": "UI_Icons.png",
+            "checksum": "b6d614a7bc72e721d887d854197e6fb3010cbda0",
+            "width": 144,
+            "height": 8,
+            "states": [
+                {
+                    "id": "2bf45552-9caa-4c41-8216-322e697b7ade",
+                    "name": "",
+                    "animationType": "multi_movement",
+                    "flipLeft": true,
+                    "animations": [
+                        {
+                            "id": "c4f36aa7-0b91-4dfc-b13c-8787eb4b6f35",
+                            "frames": [
+                                {
+                                    "id": "f7b49a61-ed85-4e61-98e6-aacab96afdee",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4c499a0d-2489-434d-82c1-bdf15291374a",
+                            "frames": [
+                                {
+                                    "id": "e45fc6a3-ce3a-4564-b780-777962188a27",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "0b9c1f63-15a8-4f37-8f26-b1b168a942ed",
+                            "frames": [
+                                {
+                                    "id": "78de3e75-3fb0-45ae-bd4f-2feb50e447e1",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "f0a54ab1-f54a-4711-8a1e-c4e3790313f2",
+                            "frames": [
+                                {
+                                    "id": "c5950091-2bad-4ef9-a00d-7a062c2c7d31",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "982725ff-c189-4e38-905d-774df342baf6",
+                            "frames": [
+                                {
+                                    "id": "092d305d-e34f-43d1-9ffe-dd56cd3b1375",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "d245efcd-4f17-460c-9956-07eddf8b27b7",
+                            "frames": [
+                                {
+                                    "id": "e573a1f6-8f06-42ff-b68a-ef6536c89d7f",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "59a6489a-c16b-4226-9df0-1eed4728a9b5",
+                            "frames": [
+                                {
+                                    "id": "d19a4b18-a420-4cc0-b038-5b7f714c3f3a",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ea26b50e-5a1a-4aa0-8d4b-cd33530b497c",
+                            "frames": [
+                                {
+                                    "id": "0713c43d-386c-4134-b386-1cb122099250",
+                                    "tiles": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "numTiles": 0,
+            "canvasWidth": 32,
+            "canvasHeight": 32,
             "boundsX": 0,
             "boundsY": 0,
             "boundsWidth": 16,
@@ -62921,7 +63023,7 @@
             "numFrames": 6.5,
             "type": "animated",
             "filename": "gbs-font-small.png",
-            "checksum": "0afb32e9d8c9021358c441f16a33f4ec4c3d69d1",
+            "checksum": "e5f638032ae7ec20b7e373270b22d07d16d3ecbe",
             "width": 104,
             "height": 8,
             "states": [
@@ -75612,9 +75714,9 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 1015,
-        "worldScrollY": 111,
-        "zoom": 125,
+        "worldScrollX": 4591,
+        "worldScrollY": 2001,
+        "zoom": 375,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
